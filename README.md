@@ -44,6 +44,5 @@ I'm always expanding my knowledge! Right now, I'm focused on:
 
 ---
 
-⭐️ From [Your Name](https://github.com/nailed1)
 
 *"MI BOMBOCLAT." - wise man*
