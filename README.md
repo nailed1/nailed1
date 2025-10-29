@@ -3,7 +3,13 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating interactive experiences, web applications, and game development. I'm constantly learning and expanding my skill set.
 
 ## 🛠️ Skills & Technologies
-
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ue5](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ### 💻 Programming Languages
 - **Python** - My go-to language for various projects
 - **GDScript** - Primary language for Godot game development
@@ -46,3 +52,5 @@ I'm always expanding my knowledge! Right now, I'm focused on:
 
 
 *"MI BOMBOCLAT." - wise man*
+
+![bomboclat](https://media1.tenor.com/m/PbXTSWWJtFEAAAAd/bomboclat-lightning-bomboclat.gif)
