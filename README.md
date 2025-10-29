@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there! 👋 I'm Nailed1
 
-<!--
-**nailed1/nailed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating interactive experiences, web applications, and game development. I'm constantly learning and expanding my skill set.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming Languages
+- **Python** - My go-to language for various projects
+- **GDScript** - Primary language for Godot game development
+- **HTML** - Web development fundamentals
+- **C++** - Currently learning and exploring
+
+### 🌐 Web Development
+- **Django** - Building robust web applications
+- **HTML** - Structuring web content
+- **PHP** - Currently expanding my backend skills
+
+### 🎮 Game Development
+- **Godot Engine** - Creating 2D and 3D games
+- **Unreal Engine 5** - Currently learning next-gen game development
+
+## 🚀 What I'm Currently Learning
+
+I'm always expanding my knowledge! Right now, I'm focused on:
+
+- **PHP** - Enhancing my web development toolkit
+- **Unreal Engine 5** - Exploring cutting-edge game development
+- **C++** - Deepening my understanding of systems programming
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nailed1&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nailed1&layout=compact&theme=radical)
+
+## 🔧 Projects
+
+## 📫 Let's Connect!
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/stillbore)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.com/nailed1)
+- ✉️ Email: max20070608@gmail.com
+
+
+---
+
+⭐️ From [Your Name](https://github.com/nailed1)
+
+*"MI BOMBOCLAT." - wise man*
