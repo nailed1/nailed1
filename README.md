@@ -33,11 +33,13 @@ I'm always expanding my knowledge! Right now, I'm focused on:
 - **Unreal Engine 5** - Exploring cutting-edge game development
 - **C++** - Deepening my understanding of systems programming
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nailed1&layout=compact&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nailed1&layout=compact&theme=radical)
+
+![LeetCode](https://leetcard.jacoblin.cool/nailed1)
 
 ## 🔧 Projects
 
