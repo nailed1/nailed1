@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![ue5](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ### 💻 Programming Languages
@@ -19,7 +18,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ### 🌐 Web Development
 - **Django** - Building robust web applications
 - **HTML** - Structuring web content
-- **PHP** - Currently expanding my backend skills
 
 ### 🎮 Game Development
 - **Godot Engine** - Creating 2D and 3D games
@@ -29,7 +27,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 I'm always expanding my knowledge! Right now, I'm focused on:
 
-- **PHP** - Enhancing my web development toolkit
 - **Unreal Engine 5** - Exploring cutting-edge game development
 - **C++** - Deepening my understanding of systems programming
 
